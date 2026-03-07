@@ -1,0 +1,85 @@
+"areasymbol","areaname","om_0_5","om_5_15","om_15_30","om_30_60","om_60_100"
+"KY001","Adair County, Kentucky",,,0.25,,0.25
+"KY003","Allen County, Kentucky",,,0.300000011920929,,
+"KY011","Bath County, Kentucky",69,0.759999990463257,1.625,0.639999985694885,0.25
+"KY025","Breathitt County, Kentucky",61.9288080646878,3.39250001311302,0.792857153075082,0.378888884352313,0.419333340227604
+"KY033","Caldwell County, Kentucky",2.1875,,0.75,,0.231250001117587
+"KY043","Carter County, Kentucky",60,6.5,0.742857124124255,0.550000004470348,0.300000004470348
+"KY045","Casey County, Kentucky",,,1,,0.25
+"KY047","Christian County, Kentucky",,,,0.25,0.23684210604743
+"KY049","Clark County, Kentucky",,,0.8,0.25,0.338000003496806
+"KY051","Clay County, Kentucky",66.765383206881,,0.425000011920929,0.310833332439264,0.244999999801318
+"KY053","Clinton County, Kentucky",65,1.47000002861023,0.25,,
+"KY055","Crittenden County, Kentucky",,,0.75,,0.200000000496705
+"KY057","Cumberland County, Kentucky",1.5,,0.25,,
+"KY063","Elliott County, Kentucky",60.2999993896484,0.649999976158142,0.25,0.416666666666667,0.240000005811453
+"KY069","Fleming County, Kentucky",15.45,0.759999990463257,1.04166666666667,0.5,0.25
+"KY075","Fulton County, Kentucky",,0.25,,0.431818181818182,0.366666667163372
+"KY083","Graves County, Kentucky",2.25,,,0.285714285714286,0.230000001192093
+"KY085","Grayson County, Kentucky",2.5,,0.25,0.25,0.226666668057442
+"KY097","Harrison County, Kentucky",,,2.5,,0.25
+"KY101","Henderson County, Kentucky",,,0.75,0.25,0.545000000298023
+"KY107","Hopkins County, Kentucky",,,,0.25,0.227500001341105
+"KY111","Jefferson County, Kentucky",2.28846153846154,,2.5,0.964285714285714,0.25
+"KY135","Lewis County, Kentucky",13,0.759999990463257,0.75,0.457142857568605,0.262500002980232
+"KY139","Livingston County, Kentucky",1.5,,0.625,0.25,0.25
+"KY141","Logan County, Kentucky",,,0.25,,0.223076924681664
+"KY151","Madison County, Kentucky",69,,1.24285714328289,0.375,0.278823527343133
+"KY155","Marion County, Kentucky",1.25,,0.916666666666667,0.25,0.25
+"KY161","Mason County, Kentucky",,,2.5,,0.25
+"KY169","Metcalfe County, Kentucky",,,0.25,0.25,0.25
+"KY171","Monroe County, Kentucky",,,,,0.25
+"KY173","Montgomery County, Kentucky",,,1.625,,0.25
+"KY179","Nelson County, Kentucky",1.1875,,1.75,,0.25
+"KY183","Ohio County, Kentucky",1.5,,0.5,0.25,0.233333334326744
+"KY185","Oldham County, Kentucky",,,2.5,,0.25
+"KY195","Pike County, Kentucky",69.424998147147,,0.425000011920929,0.264285715562957,0.667222229142984
+"KY199","Pulaski County, Kentucky",69.0666663760231,,0.320000004768372,0.348888890610801,0.25
+"KY207","Russell County, Kentucky",1.75,,,,0.25
+"KY209","Scott County, Kentucky",,,,,0.25
+"KY211","Shelby County, Kentucky",,,2.5,1.25,0.25
+"KY213","Simpson County, Kentucky",,,,,
+"KY219","Todd County, Kentucky",1.75,,,0.25,0.236111111938953
+"KY227","Warren County, Kentucky",,,0.5,,0.233333334326744
+"KY229","Washington County, Kentucky",,,2.5,,0.25
+"KY231","Wayne County, Kentucky",65,1.47000002861023,,,
+"KY601","Anderson and Franklin Counties, Kentucky",,,2.5,,0.438571436064584
+"KY602","Ballard and McCracken Counties, Kentucky",2,0.25,0.75,0.3125,0.25
+"KY603","Boone, Campbell, and Kenton Counties, Kentucky",,,,0.392857142857143,0.25
+"KY604","Bourbon and Nicholas Counties, Kentucky",,,2.5,,0.580000013113022
+"KY605","Boyd and Greenup Counties, Kentucky",,,0.685714270387377,0.418750002980232,0.287500001490116
+"KY606","Boyle and Mercer Counties, Kentucky",,,2.5,0.25,0.382000005245209
+"KY607","Breckinridge and Meade Counties, Kentucky",1.5,,0.392857142857143,0.200000002980232,0.200000002980232
+"KY608","Bullitt and Spencer Counties, Kentucky",,,2.5,0.800000011920929,0.25
+"KY610","Calloway and Marshall Counties, Kentucky",1.48809523809524,0.5,0.583333333333333,0.264285715562957,0.220454546538266
+"KY611","Carlisle and Hickman Counties, Kentucky",,0.25,,0.5,0.25
+"KY612","Carroll, Gallatin, and Owen Counties, Kentucky",,,2.5,,0.25
+"KY615","Daviess and Hancock Counties, Kentucky",1.5,,0.75,0.25,0.407692308609302
+"KY616","Estill and Lee Counties, Kentucky",69.0913039497707,2.5,0.910000009834766,0.338666665554047,0.500769237486216
+"KY618","Garrard and Lincoln Counties, Kentucky",,,2.5,0.699999988079071,0.485714286565781
+"KY619","Grant and Pendleton Counties, Kentucky",,,2.5,,0.25
+"KY620","Green and Taylor Counties, Kentucky",,,0.5,0.25,0.25
+"KY621","Hardin and Larue Counties, Kentucky",1.5,,0.75,,0.234375000931323
+"KY622","Henry and Trimble Counties, Kentucky",,,2.5,,0.25
+"KY623","Jackson and Owsley Counties, Kentucky",69.1909082586115,,0.150000000993411,0.35,0.429999987284342
+"KY624","Jessamine and Woodford Counties, Kentucky",,,2.5,,0.382000005245209
+"KY626","Knott and Letcher Counties, Kentucky",56.0218854670255,17.2539999961853,0.366666674613953,0.374285709645067,0.367368426762129
+"KY627","Knox and Eastern Part of Whitley Counties, Kentucky",60.0684990644455,2.72249999642372,1.7368421178115,0.608064511129933,0.947142887328352
+"KY628","Laurel and Rockcastle Counties, Kentucky",67.1133327166239,1.86666667461395,0.330769236271198,0.336470588165171,0.25
+"KY629","Lyon and Trigg Counties, Kentucky",,,,,0.227272728627378
+"KY630","McCreary-Whitley Area, Kentucky",69.0874996185303,2,1.42352942158194,0.466153845191002,0.598888900544908
+"KY631","McLean and Muhlenberg Counties, Kentucky",1.5,,0.75,0.25,0.233333334326744
+"KY633","Leslie and Perry Counties, Kentucky",59.919613966575,3.39250001311302,0.425000011920929,0.369999993931163,0.637142872171743
+"KY634","Powell and Wolfe Counties, Kentucky",57.8604164123535,2.5,0.387500012293458,0.316666667660077,0.553999996185303
+"KY635","Union and Webster Counties, Kentucky",,,0.75,0.25,0.337500000372529
+"KY637","Bracken and Robertson Counties, Kentucky",,,2.5,,0.25
+"KY638","Bell and Harlan Counties, Kentucky",66.3499984741211,37.1499999761581,0.390000009536743,0.305000001192093,0.242499999701977
+"KY639","Floyd and Johnson Counties, Kentucky",67.6717932285407,,0.25,0.290000000968575,0.621333340803782
+"KY640","Lawrence and Martin Counties, Kentucky",61.5029395608341,,0.483333349227905,0.392222220698992,0.705000009387732
+"KY641","Magoffin and Morgan Counties, Kentucky",66.9999983651297,,0.658333341280619,0.433333332339923,0.225714285458837
+"KY643","Fayette County Area, Part of Fayette County, Kentucky",,,2.5,0.75,0.327647061908946
+"KY645","Menifee and Rowan Counties, Kentucky",60,6.5,0.729999983310699,0.370000004768372,0.279166668653488
+"KY646","Barren County Area, Kentucky",1,,0.25,0.25,0.241666667163372
+"KY647","Hart County Area, Kentucky",,,0.5,,0.240000000596046
+"KY648","Mammoth Cave National Park, Kentucky",1.83333333333333,,,0.375,0.25
+"KY709","Butler and Edmonson Counties Area, Kentucky",1.53571428571429,,0.666666666666667,0.305555555555556,0.230555556714535
