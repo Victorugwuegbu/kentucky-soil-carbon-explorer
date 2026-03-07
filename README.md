@@ -1,5 +1,7 @@
 # Kentucky Soil Carbon Explorer
 
+[![Live Map](https://img.shields.io/badge/Interactive_Map-Live-green?style=for-the-badge)](https://victorugwuegbu.github.io/kentucky-soil-carbon-explorer/)
+
 **Course:** MAP673: Design for Interactive Mapping  
 **Author:** Victor Ugwuegbu  
 **Beta live map:** https://victorugwuegbu.github.io/kentucky-soil-carbon-explorer/  
