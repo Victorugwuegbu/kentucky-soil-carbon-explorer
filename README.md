@@ -2,7 +2,7 @@
 
 **Course:** MAP673: Design for Interactive Mapping  
 **Author:** Victor Ugwuegbu  
-**Beta live map:** https://Victorugwuegbu.github.io/kentucky-soil-carbon-explorer/  
+**Beta live map:** https://victorugwuegbu.github.io/kentucky-soil-carbon-explorer/  
 **GitHub repository:** https://github.com/Victorugwuegbu/kentucky-soil-carbon-explorer  
 
 ---
