@@ -49,11 +49,11 @@ The third audience is agricultural and land management users who may benefit fro
 
 ## Data sources
 
-The county level soil values were derived from **USDA NRCS Soil Data Access**, which provides access to SSURGO tabular data. The soil table was queried from the public service, summarized by county-relevant units, and prepared outside the browser. :contentReference[oaicite:7]{index=7}
+The county level soil values were derived from **USDA NRCS Soil Data Access**, which provides access to SSURGO tabular data. The soil table was queried from the public service, summarized by county-relevant units, and prepared outside the browser. 
 
-Kentucky county boundaries came from **US Census TIGER/Line county boundary data**, which provided the polygon geometry used for the choropleth map. :contentReference[oaicite:8]{index=8}
+Kentucky county boundaries came from **US Census TIGER/Line county boundary data**, which provided the polygon geometry used for the choropleth map. 
 
-The physiographic region overlay was obtained from the **Kentucky open data portal** dataset for Kentucky physiographic regions. This layer was prepared separately and added as an optional contextual overlay. :contentReference[oaicite:9]{index=9}
+The physiographic region overlay was obtained from the **Kentucky open data portal** dataset for Kentucky physiographic regions. This layer was prepared separately and added as an optional contextual overlay. 
 
 ### Data source links
 - USDA NRCS Soil Data Access: https://sdmdataaccess.nrcs.usda.gov/
@@ -133,6 +133,28 @@ Other improvements I would like to make in the final version include:
 
 ---
 
+## Update
+
+Since the beta presentation, I improved the functionality of the physiographic regions in the map interface. In the earlier beta version, the physiographic overlay acted mainly as a visual reference layer and still needed stronger integration with county level interaction. In the updated version, I refined the user experience so that the physiographic regions work more smoothly alongside county selection and inspection. This makes the overlay more useful as contextual information rather than simply an additional graphic on top of the map.
+
+I also continued polishing the layout and interaction design of the map by improving visual hierarchy, strengthening the relationship between the legend and the active depth selection, and making the county profile panel easier to interpret. These updates support the overall goal of the project, which is to make county level soil carbon patterns across Kentucky easier to explore and compare.
+
+---
+
+## Technology stack
+
+The project uses HTML, CSS, and JavaScript for the web interface, Leaflet for interactive web mapping, Bootstrap for layout and interface structure, Chart.js for the county profile visualization, and simple-statistics for Jenks natural breaks classification. Spatial data preparation, cleaning, joins, and export were completed in QGIS before deployment to GitHub Pages.
+
+---
+
+## Conclusions and insights
+
+The map shows that soil organic carbon is not evenly distributed across Kentucky and that spatial patterns shift as depth changes. This reinforces the importance of interactive depth comparison in communicating soil variation. It also shows the value of combining cleaned spatial data, clear thematic design, and lightweight web mapping tools into an interface that supports both exploration and interpretation.
+
+At the design level, this project confirmed that interactive maps are most effective when the user’s point of entry is clear, the map controls are closely tied to the visual change they trigger, and contextual layers are introduced in ways that support rather than distract from the main thematic message. For this project, the depth selector, county information panel, search box, and physiographic overlay all work together to help users move from broad spatial overview to county specific inspection.
+
+---
+
 ## How to use the map
 
 Use the depth buttons in the header to switch between soil depth intervals. The county colors and legend update automatically when the active depth changes.
@@ -158,3 +180,7 @@ kentucky-soil-carbon-explorer/
 └── data/
     ├── ky_counties_soc.geojson
     └── ky-physio-regions.geojson
+└── images/
+    └── map-preview.png
+
+    The project is published through GitHub Pages, and the live interactive map can be accessed at the GitHub Pages URL listed at the top of this README.
