@@ -1,0 +1,7 @@
+{
+  "title": "Kentucky Soil Carbon Explorer",
+  "info": "An interactive web map of county level soil organic carbon across Kentucky at multiple depth intervals, with county profiles and physiographic context.",
+  "coordinates": [37.8, -85.3],
+  "author": "Victor Ugwuegbu",
+  "link": "https://victorugwuegbu.github.io/kentucky-soil-carbon-explorer/"
+}
